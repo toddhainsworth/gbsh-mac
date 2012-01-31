@@ -71,5 +71,5 @@ void print_help_commands()
 	printf("pwd    - Print Working Directory\n");
 	printf("ls     - List Directory Contents\n");
 	printf("editor - Executes the string editor\n");
-	printf("exit - Exits gbsh\n");
+	printf("exit   - Exits gbsh\n");
 }
